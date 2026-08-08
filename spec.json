@@ -1,0 +1,10 @@
+{
+    "specVersion": "1.0",
+    "providers": ["mock", "llm"],
+    "limits": {
+        "maxPayloadBytes": 1048576,
+        "chunkBytes": 65536,
+        "maxConcurrentJobs": 4,
+        "rateLimitPerMinute": 30
+  }
+}

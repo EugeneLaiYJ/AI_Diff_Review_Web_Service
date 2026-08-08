@@ -1,0 +1,7 @@
+{
+    "diff": "<unified diff, required>",
+    "options": {
+        "provider": "mock | llm",     
+        "maxFindings": "<int, default 100>"
+    }
+}
